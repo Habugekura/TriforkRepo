@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "NptJTRvk3F6l+4HcsBHDcb40dnOdLKGDoQmy8uZMYCJf+qP+jmyuVHdWV0lbhjaP/PiJozPtNGbieNcd9m+Jbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caspar\\Documents\\Trifork\\ConsumerApp\\ConsumerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caspar\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
+    "C:\\Users\\Caspar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Caspar\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Caspar\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\Caspar\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Caspar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Caspar\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
