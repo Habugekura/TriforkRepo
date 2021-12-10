@@ -1,0 +1,14 @@
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\ConsumerApp.exe
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\ConsumerApp.dll
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\ConsumerApp.deps.json
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\ConsumerApp.runtimeconfig.json
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\ConsumerApp.pdb
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\Microsoft.Data.Sqlite.dll
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\RabbitMQ.Client.dll
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\SQLitePCLRaw.core.dll
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\System.Threading.Channels.dll
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Caspar\Documents\Trifork\ConsumerApp\bin\Release\netcoreapp3.1\publish\runtimes\win7-x86\native\sqlite3.dll

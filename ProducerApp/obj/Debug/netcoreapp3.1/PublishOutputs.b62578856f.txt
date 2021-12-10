@@ -1,0 +1,8 @@
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\ProducerApp.exe
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\ProducerApp.dll
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\ProducerApp.deps.json
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\ProducerApp.runtimeconfig.json
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\ProducerApp.pdb
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\RabbitMQ.Client.dll
+C:\Users\Caspar\Documents\Trifork\ProducerApp\bin\Debug\netcoreapp3.1\publish\System.Threading.Channels.dll
